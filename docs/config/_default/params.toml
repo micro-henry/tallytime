@@ -1,0 +1,113 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Tallytime Documentation"
+titleSeparator = ""
+titleAddition = ""
+description = "Tallytime is an open-souce remote tally light and LTC timecode syncronizer."
+
+## Documentation
+docsVersion = "0.1"
+
+## Open Graph
+images = ["tallytime.png"]
+ogLocale = "en_US"
+domainTLD = "tallytime.radio-club.org"
+titleHome = "Tallytime Documentation"
+
+## Twitter Cards
+# twitterSite = "@getdoks"
+# twitterCreator = "@henkverlinde"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Treee Studio"
+schemaAuthor = "Hugh He"
+schemaAuthorTwitter = "https://twitter.com/plushugh"
+# schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub = "https://github.com/plushugh"
+schemaLocale = "en-US"
+schemaLogo = "logo-tallytime.png" # TODO: ADD LOGO
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "tallytime.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+# schemaTwitter = "https://twitter.com/getdoks"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/treee-studio/tallytime"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images - Temporarily left in place for backward compatibility
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Open Source. Contribute on <a class=\"text-muted\" href=\"https://github.com/treee-studio/tallytime\">Github</a>. Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "Copyright (c) 2023 Tree Studio"
+
+# Alert
+alert = true
+alertDismissable = true
+alertText = "WIP Project, contribute on <a class=\"\" href=\"https://github.com/treee-studio/tallytime\">Github</a>."
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/treee-studio/tallytime"
+docsRepoBranch = "master"
+docsRepoSubPath = "docs"
+editPage = false
+lastMod = false
+
+[sections]
+  sectionNav = ["docs"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = true
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = true
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

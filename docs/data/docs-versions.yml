@@ -1,0 +1,5 @@
+- group: v0.x
+  baseurl: "/docs"
+  description: "WIP Release of Tallytime"
+  versions:
+    - v: "0.1"
