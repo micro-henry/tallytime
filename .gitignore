@@ -30,3 +30,11 @@ fp-info-cache
 
 # Local Netlify folder
 .netlify
+
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+.DS_store
