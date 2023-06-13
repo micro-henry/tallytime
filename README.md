@@ -2,7 +2,7 @@
 Open-source tally light and LTC timecode syncronization system
 ## Hardware
 ### Footprint Design
-[Footprint library] (kicad-libraries/Footprints.pretty)
+[Footprint library](kicad-libraries/Footprints.pretty)
 - Lora Module 
     - E22-400T30S(30/33dBm) 
     - E22-400T22S(22dBm)
