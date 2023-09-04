@@ -25,7 +25,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://tallytime.radio-club.org/"
+    baseUrl = "https://tallytime.uhenry.com/"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [
