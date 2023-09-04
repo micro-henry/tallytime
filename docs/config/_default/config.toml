@@ -1,4 +1,4 @@
-baseurl = "https://tallytime.radio-club.org/"
+baseurl = "https://tallytime.uhenry.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

@@ -12,7 +12,7 @@ docsVersion = "0.1"
 ## Open Graph
 images = ["tallytime.png"]
 ogLocale = "en_US"
-domainTLD = "tallytime.radio-club.org"
+domainTLD = "tallytime.uhenry.com"
 titleHome = "Tallytime Documentation"
 
 ## Twitter Cards
