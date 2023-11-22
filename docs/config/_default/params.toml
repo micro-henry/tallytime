@@ -36,7 +36,7 @@ schemaImageWidth = 1280
 schemaImageHeight = 640
 # schemaTwitter = "https://twitter.com/getdoks"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/treee-studio/tallytime"
+schemaGitHub = "https://github.com/micro-henry/tallytime"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Open Source. Contribute on <a class=\"text-muted\" href=\"https://github.com/treee-studio/tallytime\">GitHub</a>. Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Open Source. Contribute on <a class=\"text-muted\" href=\"https://github.com/micro-henry/tallytime\">GitHub</a>. Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2023 Tree Studio"
@@ -73,13 +73,13 @@ copyRight = "Copyright (c) 2023 Tree Studio"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "WIP Project, contribute on <a class=\"\" href=\"https://github.com/treee-studio/tallytime\">Github</a>."
+alertText = "WIP Project, contribute on <a class=\"\" href=\"https://github.com/micro-henry/tallytime\">GitHub</a>."
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/treee-studio/tallytime"
+docsRepo = "https://github.com/micro-henry/tallytime"
 docsRepoBranch = "master"
 docsRepoSubPath = "docs"
 editPage = false

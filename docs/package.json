@@ -8,7 +8,7 @@
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/treee-studio/tallytime",
+  "repository": "https://github.com/micro-henry/tallytime",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
