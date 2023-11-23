@@ -38,12 +38,12 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
-    "@babel/cli": "^7.22",
+    "@babel/cli": "^7.23",
     "@babel/core": "^7.23",
-    "@babel/preset-env": "^7.22",
+    "@babel/preset-env": "^7.23",
     "@fullhuman/postcss-purgecss": "^5.0",
     "@hyas/doks": "^0.5",
-    "@hyas/images": "^1.0.2",
+    "@hyas/images": "^2.0.3",
     "auto-changelog": "^2.4.0",
     "autoprefixer": "^10.4",
     "bootstrap": "^5.3",
@@ -51,8 +51,8 @@
     "eslint": "^8.54",
     "exec-bin": "^1.0.0",
     "flexsearch": "^0.7.31",
-    "highlight.js": "^11.8",
-    "hugo-installer": "^4.0",
+    "highlight.js": "^11.9",
+    "hugo-installer": "^4.0.1",
     "instant.page": "^5.2",
     "katex": "^0.16",
     "lazysizes": "^5.3",
@@ -62,8 +62,8 @@
     "postcss-cli": "^10.1",
     "purgecss-whitelister": "^2.4",
     "shx": "^0.3",
-    "stylelint": "^14.16",
-    "stylelint-config-standard-scss": "^6.1"
+    "stylelint": "^15.11",
+    "stylelint-config-standard-scss": "^11.1"
   },
   "otherDependencies": {
     "hugo": "0.101.0"
